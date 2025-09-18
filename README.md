@@ -1,5 +1,3 @@
-# JOB-HUNT
-Build a FullStack Job Portal App with MERN Stack (MongoDB, Express, React Js, Node Js)
 Job Portal (MERN + Redux + ShadcnUI + MongoDB)
 📌 Project Overview
 
@@ -45,16 +43,26 @@ State management with Redux Toolkit
 Smooth animations with Framer Motion
 
 🛠️ Tech Stack
-Frontend->>
+Frontend
+
 React (Vite)
+
 Shadcn UI + TailwindCSS
+
 Redux Toolkit
+
 Axios
+
 Framer Motion
 
-Backend->>
+Backend
+
 Node.js
+
 Express.js
+
 MongoDB (Mongoose)
+
 Multer (File Upload)
+
 Cloudinary (File Storage)
